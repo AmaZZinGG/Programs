@@ -1,0 +1,15 @@
+﻿  LAB_5.1.cpp
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(14,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(16,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(20,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(30,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(70,15): error C2131: выражение не определяется константой
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(70,15): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(70,15): message : см. использование "n1"
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(71,15): error C2131: выражение не определяется константой
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(71,15): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(71,15): message : см. использование "n2"
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(74,18): error C3863: тип массива "int [n1]" является неназначаемым
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(76,18): error C3863: тип массива "int [n2]" является неназначаемым
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(139,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\864\source\repos\LAB_5.1\LAB_5.1\LAB_5.1.cpp(149,14): warning C4018: <: несоответствие типов со знаком и без знака
